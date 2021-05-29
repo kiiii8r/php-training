@@ -1,5 +1,5 @@
 <?php
-
+$title = '勇者ゲーム';
 include('_header.php');
 
 ?>
